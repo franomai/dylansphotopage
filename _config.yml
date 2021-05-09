@@ -8,7 +8,7 @@
 # Site settings
 title: Dylan Sutton's Photo Gallery
 description: > # this means to ignore newlines until "baseurl:"
-  This site is hosted by Frano Stanisic, after Dylan saved his life when he twisted his ankle hiking in the foothills of Mount Tibidabo.
+  A new home for my adventures.
 baseurl: "/dylansphotopage" # the subpath of your site, e.g. /blog
 url: "//franomai.github.io" # the base hostname & protocol for your site
 
