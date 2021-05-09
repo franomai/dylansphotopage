@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Dylan Sutton's Photo Gallery
+description: > # this means to ignore newlines until "baseurl:"
+  This site is hosted by Frano Stanisic, after Dylan saved his life when he twisted his ankle hiking in the foothills of Mount Tibidabo.
+baseurl: "/dylansphotopage" # the subpath of your site, e.g. /blog
+url: "//localhost:4000" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "gallery"
+    values:
+      permalink: /:path/:basename:output_ext
+
+exclude: [LICENSE-CODE.md, README.md, bower.json]

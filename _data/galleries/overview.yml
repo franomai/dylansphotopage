@@ -1,0 +1,77 @@
+-
+ title: Landscapes
+ directory: landscapes
+ preview:
+  filename: Bharatpur
+  original: Bharatpur-full.jpg
+  thumbnail: Bharatpur-full.jpg
+-
+ title: Macro
+ directory: macro
+ preview:
+  filename: Side-View
+  original: Side-View-full.jpg
+  thumbnail: Side-View-full.jpg
+-
+ title: Wildlife
+ directory: wildlife
+ preview:
+  filename: Snake
+  original: Snake-full.jpg
+  thumbnail: Snake-full.jpg
+-
+ title: Bushwalking
+ directory: bushwalking
+ preview:
+  filename: arthurs
+  original: arthurs-full.jpg
+  thumbnail: arthurs-full.jpg
+-
+ title: Canyoning
+ directory: canyons
+ preview:
+  filename: mark
+  original: mark-full.jpg
+  thumbnail: mark-full.jpg
+-
+ title: Rock climbing
+ directory: rock
+ preview:
+  filename: wwall2
+  original: wwall2-full.jpg
+  thumbnail: wwall2-full.jpg
+-
+ title: Whitsundays
+ directory: whitsundays
+ preview:
+  filename: k2
+  original: k2-full.jpg
+  thumbnail: k2-full.jpg
+-
+ title: Vietnam 1999-2000
+ directory: vietnam-1999-2000
+ preview:
+  filename: Cat-Ba-Harbour
+  original: Cat-Ba-Harbour-full.jpg
+  thumbnail: Cat-Ba-Harbour-full.jpg
+-
+ title: Mexico 1995
+ directory: mexico
+ preview:
+  filename: Uxmal
+  original: Uxmal-full.jpg
+  thumbnail: Uxmal-full.jpg
+-
+ title: People
+ directory: people
+ preview:
+  filename: js
+  original: js-full.jpg
+  thumbnail: js-full.jpg
+-
+ title: Weddings
+ directory: weddings
+ preview:
+  filename: scan792
+  original: scan792-full.jpg
+  thumbnail: scan792-full.jpg
